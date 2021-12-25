@@ -1,0 +1,7 @@
+echo "# dyego" >> README.md
+git init
+git add README.md
+git commit -m "reacion de proyecto"
+git branch -M main
+git remote add origin https://github.com/Dyego79/dyego.git
+git push -u origin main
